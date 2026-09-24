@@ -1,4 +1,4 @@
-# Love Calculator
+# Local
 
 A small Python program that gives a playful love compatibility score.
 
