@@ -1,4 +1,4 @@
-print("        LOVE CALCULATOR")
+print(" LOCAL" )
 print("=" * 32)
 
 first_name = input("Enter your name: ").strip()
